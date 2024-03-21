@@ -1,0 +1,3 @@
+[submodule "BentoSentenceTransformers"]
+	path = BentoSentenceTransformers
+	url = git@github.com:bentoml/BentoSentenceTransformers.git
